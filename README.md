@@ -5,8 +5,8 @@ Exercises from the [Pivotal Education course on RabbitMQ](https://courses.educat
 Each example has its own publisher and consumer
 
 ```
-→ tree quorum-queue-solution/
-quorum-queue-solution/
+→ tree solutions/quorum-queue/
+quorum-queue/
 ├── publisher
 │   └── main.go
 └── subscriber
